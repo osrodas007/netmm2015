@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: netmm2015-novel-ids-v2.aux
+The style file: plain.bst
+Database file #1: bib_paper_netmm2015.bib
+Warning--to sort, need author or key in mongoDB
+Warning--to sort, need author or key in IDEVAL
+Warning--to sort, need author or key in RFC4254
+Warning--empty journal in thomas2013application
+You've used 15 entries,
+            2118 wiz_defined-function locations,
+            587 strings with 6484 characters,
+and the built_in function-call counts, 4539 in all, are:
+= -- 452
+> -- 198
+< -- 0
++ -- 86
+- -- 64
+* -- 334
+:= -- 744
+add.period$ -- 42
+call.type$ -- 15
+change.case$ -- 77
+chr.to.int$ -- 0
+cite$ -- 19
+duplicate$ -- 148
+empty$ -- 375
+format.name$ -- 64
+if$ -- 935
+int.to.chr$ -- 0
+int.to.str$ -- 15
+missing$ -- 11
+newline$ -- 75
+num.names$ -- 24
+pop$ -- 78
+preamble$ -- 1
+purify$ -- 62
+quote$ -- 0
+skip$ -- 108
+stack$ -- 0
+substring$ -- 319
+swap$ -- 14
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 60
+warning$ -- 4
+while$ -- 43
+width$ -- 17
+write$ -- 155
+(There were 4 warnings)

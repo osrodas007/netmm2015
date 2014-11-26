@@ -1,0 +1,87 @@
+\begin{thebibliography}{10}
+
+\bibitem{IDEVAL}
+Data set, 1999 {DARPA Intrusion Detection Evaluation Data Set}.
+\newblock http://www.ll.mit.edu/mission/communications/
+  cyber/CSTcorpora/ideval/data/1999data.html, 1999.
+
+\bibitem{RFC4254}
+The secure shell (ssh) connection protocol.
+\newblock http://www.ietf.org/rfc/rfc4254.txt, 2006.
+
+\bibitem{mongoDB}
+mongodb.
+\newblock http://www.mongodb.org, 2009.
+
+\bibitem{aydin2009hybrid}
+M~Ali Ayd{\i}n, A~Halim Zaim, and K~G{\"o}khan Ceylan.
+\newblock A hybrid intrusion detection system design for computer network
+  security.
+\newblock {\em Computers \& Electrical Engineering}, 35(3):517--526, 2009.
+
+\bibitem{bajaj2013improving}
+Karan Bajaj and Amit Arora.
+\newblock Improving the intrusion detection using discriminative machine
+  learning approach and improve the time complexity by data mining feature
+  selection methods.
+\newblock {\em International Journal of Computer Applications}, 76(1):5--11,
+  2013.
+
+\bibitem{chen2010efficientnetworkintrusion}
+Chia-Mei Chen, Ya-Lin Chen, and Hsiao-Chung Lin.
+\newblock An efficient network intrusion detection.
+\newblock {\em Computer communications}, 33(4):477--484, 2010.
+
+\bibitem{garcia2009anomaly}
+Pedro Garcia-Teodoro, J~Diaz-Verdejo, Gabriel Maci{\'a}-Fern{\'a}ndez, and
+  Enrique V{\'a}zquez.
+\newblock Anomaly-based network intrusion detection: Techniques, systems and
+  challenges.
+\newblock {\em computers \& security}, 28(1):18--28, 2009.
+
+\bibitem{deshmukhDetectionOfAttacks}
+Sapna~S. Kaushik and Dr. Prof. P.~R. Deshmukh.
+\newblock Detection of attacks in an intrusion detection system.
+\newblock {\em International Journal of Computer Science and Information
+  Technologies}, 2(3):982--986, 2011.
+
+\bibitem{panda2012hybrid}
+Mrutyunjaya Panda, Ajith Abraham, and Manas~Ranjan Patra.
+\newblock A hybrid intelligent approach for network intrusion detection.
+\newblock {\em Procedia Engineering}, 30:1--9, 2012.
+
+\bibitem{SNORT}
+M.~Roesch and C.~Green.
+\newblock Snort.
+\newblock http://www.snort.org, 2004.
+
+\bibitem{modelbasedsurveySalahMD13}
+Saeed Salah, Gabriel Maci{\'a}-Fern{\'a}ndez, and Jes{\'u}s~E.
+  D\'{\i}az-Verdejo.
+\newblock A model-based survey of alert correlation techniques.
+\newblock {\em Computer Networks}, 57(5):1289--1317, 2013.
+
+\bibitem{thomas2013application}
+Ciza Thomas.
+\newblock Application of machine learning for intrusion detection: Challenges
+  and solutions.
+\newblock 2013.
+
+\bibitem{tsai2009intrusion}
+Chih-Fong Tsai, Yu-Feng Hsu, Chia-Ying Lin, and Wei-Yang Lin.
+\newblock Intrusion detection by machine learning: A review.
+\newblock {\em Expert Systems with Applications}, 36(10):11994--12000, 2009.
+
+\bibitem{tsai2010triangle}
+Chih-Fong Tsai and Chia-Ying Lin.
+\newblock A triangle area based nearest neighbors approach to intrusion
+  detection.
+\newblock {\em Pattern Recognition}, 43(1):222--229, 2010.
+
+\bibitem{zhou2010survey}
+Chenfeng~Vincent Zhou, Christopher Leckie, and Shanika Karunasekera.
+\newblock A survey of coordinated attacks and collaborative intrusion
+  detection.
+\newblock {\em Computers \& Security}, 29(1):124--140, 2010.
+
+\end{thebibliography}
